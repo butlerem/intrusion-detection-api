@@ -1,4 +1,4 @@
-## LightGBM Intrusion Detection
+## LightGBM Intrusion Detection API
 
 A Python project for detecting network intrusions using a LightGBM classifier and serving predictions via a Flask API.
 
